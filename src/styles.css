@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+	background-color: #f3f3f3;
+	color: #333333;
+}
+
+/* Helper Classes */
+.box {
+	background-color: #fff;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.2);
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+.pad20 {
+	padding: 20px;
+} 
+.mb10 {
+	margin-bottom: 10px;
+}
+.font12 {
+	font-size: 12px;
+}
+.font10 {
+	font-size: 10px;
+}
+
+/* bootstrap extended */
+.has-error .input-group-addon {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}

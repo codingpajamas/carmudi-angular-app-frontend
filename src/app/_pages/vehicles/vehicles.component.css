@@ -1,0 +1,26 @@
+.formwrap h3 {
+	margin: 0;
+}
+ 
+.carbox {
+	/*border-bottom: 1px solid rgba(0,0,0,0.1);*/
+}
+.carbox h3 {
+	margin: 0 0 5px;
+	font-size: 16px;
+}
+.carmeta { 
+	margin: 0;
+	color: #666;
+}
+.carmeta .meta-separator {
+	color: #999;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.carbox:hover {
+	background-color: #c2e2f9; 
+}
+.carbox:hover .carmeta {
+	color: #333;
+}

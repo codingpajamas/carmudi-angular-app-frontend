@@ -1,0 +1,10 @@
+#siteHeader {
+	background-color: #006fc1;
+	padding: 20px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+#siteHeader img {
+	height: 50px;
+	margin: 0 auto;
+}  
